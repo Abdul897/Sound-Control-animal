@@ -1,0 +1,26 @@
+.heading
+{
+  font-size: 18px;
+  border-radius: 10px;
+  letter-spacing: 10px;
+}
+label{
+  font-size: 14px;
+  padding: 6px;
+  border-radius: 10px;
+  background-color: white;
+  color: aqua;
+}
+#result_Gesture_name 
+{
+  color: black;
+}
+span
+{
+  font-size: 30px;
+}
+body
+{
+  color: white;
+  background: #c0d3ff;
+}
